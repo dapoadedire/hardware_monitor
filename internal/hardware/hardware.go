@@ -3,7 +3,6 @@ package hardware
 import (
 	"fmt"
 	"runtime"
-
 	"github.com/shirou/gopsutil/v4/cpu"
 	"github.com/shirou/gopsutil/v4/disk"
 	"github.com/shirou/gopsutil/v4/host"
